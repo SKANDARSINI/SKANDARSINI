@@ -17,3 +17,13 @@
 ### For Data Analysis and Visualization, I use
 <img width="50" height="50" src="https://img.icons8.com/bubbles/50/r--v2.png" alt="r--v2"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/matlab.png" alt="Matlab"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/tableau-software.png" alt="tableau-software"/> <img width="48" height="48" src="https://img.icons8.com/color/48/power-bi-2021.png" alt="power-bi-2021"/>
+
+### My Activities
+----
+<a style="text-decoration: none;" href="#">
+  <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=SKANDARSINI&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
+</a>
+<a href="#">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SKANDARSINI&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
+  
+</a>  
