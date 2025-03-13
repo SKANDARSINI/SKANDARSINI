@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Skandarsini
 
-- 🔭 I’m currently working on time-series analysis
-- 🌱 I’m currently learning Deep Learning in Neural Networks
+- 🔭 I’m currently working on Advanced Data Analysis
+- 🌱 I’m currently learning Artificial Intelligence Techniques
 - 👯 I’m looking to collaborate on building full-stack applications integrating ML techniques 
 - 📫 How to reach me: rrskandarsini@gmail.com
 
