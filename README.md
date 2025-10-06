@@ -6,9 +6,9 @@
 - 🤝 I’m open to collaborating on **interdisciplinary projects**—especially those involving **ML integration, motion capture, or intelligent system design**.  
 - 📫 Reach me at: **rrskandarsini@gmail.com**
 
-### Current Focus  
+<!--### Current Focus  
 🌟 Exploring motion capture workflows, XR analytics, and data visualization.  
-🧩 Expanding skills in deploying ML models and optimizing intelligent systems for real-time performance.
+🧩 Expanding skills in deploying ML models and optimizing intelligent systems for real-time performance.-->
 
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> <img width="50" height="50" src="https://img.icons8.com/arcade/50/sql.png" alt="sql"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/> 
